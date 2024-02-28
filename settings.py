@@ -124,4 +124,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # test kali linux / django
 
-# linux github password xetasi /
+# linux github password xetasi
