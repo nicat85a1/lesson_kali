@@ -123,5 +123,3 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # test kali linux / django
-
-# linux github password xetasi
